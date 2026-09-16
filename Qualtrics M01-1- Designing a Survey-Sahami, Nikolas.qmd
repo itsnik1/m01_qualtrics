@@ -1,0 +1,43 @@
+---
+title: "Qualtrics M01-1: Designing a Survey"
+author: "Nikolas Sahami"
+date: today
+format: 
+  html: 
+    toc: true
+    toc-depth: 4
+    number-sections: true
+    code-link: true
+    embed-resources: true
+editor: visual
+execute: 
+  freeze: auto
+---
+
+# Screenshots
+
+## Proof of Sharing
+
+The following screenshot is proof that I shared my final survey draft with Dr. Jung and gave him all the permissions.
+
+![I have shared the survey with Dr. Jung and given him all permissions](shared%20with%20dr.%20jung.png){fig-align="center"}
+
+## Full Survey with All Sections Collapsed
+
+This screenshot shows all 5 sections of my survey correctly labeled and with the right number of questions.
+
+![Screenshot of the full survey with all required questions, each section collapsed](full%20survey%20-%20collapsed.png){fig-align="center"}
+
+## Beginning, Middle, and End
+
+These screenshots show the questions at the beginning, middle, and end of my survey, pasted and reformatted from Dr. Jung's `Jung_Jae_-_Survey_of_Educational_Needs_for_MR_Professionals` Word file.
+
+![Beginning](beginning.png){fig-align="center"}
+
+![Middle](middle.png){fig-align="center"}
+
+![End](end.png){fig-align="center"}
+
+# Appendix and Conclusion
+
+I have had quite a bit of experience with Qualtrics in the past, so this assignment was relatively straightforward for me.
