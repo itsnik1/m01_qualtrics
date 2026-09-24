@@ -35,3 +35,5 @@ This screenshot shows all 5 sections of my survey correctly labeled and with the
 <https://github.com/itsnik1/m01_qualtrics/tree/main>
 
 ## GH Pages Link
+
+<https://itsnik1.github.io/m01_qualtrics/>
